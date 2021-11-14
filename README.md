@@ -11,8 +11,8 @@ Training set
 
 
 #### Pipeline
-<img src="https://github.com/mhlee216/QSAR_Machine_Learning_Pipeline/blob/main/pipeline.png">
+<center><img src="https://github.com/mhlee216/QSAR_Machine_Learning_Pipeline/blob/main/pipeline.png"></center>
 
 #### Model Performances
-<img src="https://github.com/mhlee216/QSAR_Machine_Learning_Pipeline/blob/main/results.png">
+<center><img src="https://github.com/mhlee216/QSAR_Machine_Learning_Pipeline/blob/main/results.png"></center>
 
