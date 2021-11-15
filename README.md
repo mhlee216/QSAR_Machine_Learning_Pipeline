@@ -1,6 +1,6 @@
 # QSAR_Machine_Learning_Pipeline
 
-## Efficient Fish Acute Toxicity Prediction Using QSAR Machine Learning Pipeline
+### Efficient Fish Acute Toxicity Prediction Using QSAR Machine Learning Pipeline
 
 #### Dataset
 
